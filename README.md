@@ -36,4 +36,6 @@ Representa com barras separadas os chamados enviados e resolvidos na mesma seman
 ### Outras Métricas:
 Apresenta as métricas de 30 dias, incluindo o total de chamados atendidos e a expectativa de chamados por semana.
 
+[Dashboard de Métricas de Atendimento](https://github.com/mayumi1982/dashboard_zendesk_py/assets/70608757/404604e7-9a36-42d5-bc8a-344cfe267655)
+
 Essas visualizações e métricas ajudam a compreender diferentes aspectos do atendimento ao cliente, desde a distribuição de chamados por agente até o tempo médio de resposta e satisfação geral dos clientes.
